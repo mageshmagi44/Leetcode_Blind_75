@@ -23,7 +23,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 1-2: Arrays (7 problems)
+## Day 1-2: Arrays (7 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/01-arrays/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/01-arrays/solutions.ts)
 - [ ] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
@@ -36,7 +36,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 3-4: Strings (6 problems)
+## Day 3-4: Strings (6 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/02-strings/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/02-strings/solutions.ts)
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Minimum Window Substring
@@ -48,7 +48,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 5: Linked Lists (5 problems)
+## Day 5: Linked Lists (5 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/03-linked-lists/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/03-linked-lists/solutions.ts)
 - [ ] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
@@ -59,7 +59,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 6-7: Trees & Binary Search (8 problems)
+## Day 6-7: Trees & Binary Search (8 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/04-trees-binary-search/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/04-trees-binary-search/solutions.ts)
 - [ ] Invert Binary Tree
 - [ ] Maximum Depth of Binary Tree
 - [ ] Same Tree
@@ -73,7 +73,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 8-9: Graphs (7 problems)
+## Day 8-9: Graphs (7 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/05-graphs/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/05-graphs/solutions.ts)
 - [ ] Number of Islands
 - [ ] Clone Graph
 - [ ] Course Schedule (topological sort)
@@ -86,7 +86,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 10: Backtracking & Intervals (5 problems)
+## Day 10: Backtracking & Intervals (5 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/06-backtracking-intervals/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/06-backtracking-intervals/solutions.ts)
 - [ ] Combination Sum
 - [ ] Permutations
 - [ ] Subsets
@@ -97,7 +97,7 @@ Since you're flexible on time and comfortable with Easy/Medium:
 
 ---
 
-## Day 11: Dynamic Programming (6 problems)
+## Day 11: Dynamic Programming (6 problems) - [Study Guide](file:///Users/mageshv/Leetcode_Blind_75/07-dynamic-programming/README.md) | [Solutions](file:///Users/mageshv/Leetcode_Blind_75/07-dynamic-programming/solutions.ts)
 - [ ] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
